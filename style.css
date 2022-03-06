@@ -25,6 +25,7 @@ h2 {
     max-width: 900px;
     min-width: 500px;
     display: flex;
+    border-radius: 25px;
 }
 .bloc {
     width: 50%;
